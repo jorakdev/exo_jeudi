@@ -1,6 +1,6 @@
 # exo_jeudi
 
-pair-programing par Jo et Miirindra
+pair-programing par Jo et [Miirindra](https://github.com/Miirindra)
 
 00_hello.rb : On entre un prenom et on a comme output bonjour prenom.
 
